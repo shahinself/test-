@@ -20,3 +20,13 @@ button {
     height: 50px;
     background-color: coral;
 }
+
+progress {
+    width: 25%;
+    height: 25px;
+    color: crimson;
+}
+
+.listitem {
+    background-color: crimson;
+}
