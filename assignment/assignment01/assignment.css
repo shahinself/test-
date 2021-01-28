@@ -5,9 +5,7 @@ h1 {
     text-align: center;
 }
 
-p {
-    border: cadetblue;
-    background-color: chartreuse;
+
 }
 
 li {
@@ -29,4 +27,9 @@ progress {
 
 .listitem {
     background-color: crimson;
+}
+
+.paragraph {
+    width: 30%;
+    float: left;
 }
